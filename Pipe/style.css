@@ -1,0 +1,49 @@
+.wrap{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    height: 90vh;
+    width: 60vw;
+    border: 1px solid black;
+}
+
+.box{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%,-50%);
+    height: 60vh;
+    width: 25vw;
+    border: 2px solid black;
+    border-radius: 5px 5px 5px 5px;
+    overflow: hidden;
+}
+
+#boxin{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    height: 60vh;
+    width: 25vw;
+    border: 2px solid black;
+    border-radius: 5px 5px 5px 5px;
+    background-color: blue;
+
+}
+
+
+.wrapbut {
+
+    position: absolute;
+    top: 450px;
+    left: 680px;
+    border: none;
+    content: "";
+    padding: 0px 0px;
+}
+
+#waterflow{
+    background-color: white;height: 133px;
+}

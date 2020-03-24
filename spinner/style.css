@@ -1,0 +1,28 @@
+.wrap{
+    position: absolute;
+    top: 175px;
+    left: 240px;
+    z-index: 1;
+    display: inline;
+    background: white;
+    /* height: 6; */
+    padding: 160px;
+    border-radius: 50%;
+    
+}
+
+button{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+li{
+    font-size:30px;
+}
+
+/* *::-webkit-scrollbar {
+    display: none;
+  } */
